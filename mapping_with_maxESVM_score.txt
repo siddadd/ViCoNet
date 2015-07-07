@@ -1,0 +1,62 @@
+0,A1 Steak Sauce,21.5857
+1,ACT Anticavity Fluoride Rinse,32.0105
+2,All Laundry Detergent Bottle,6.9129
+3,Barilla Pasta,10.8286
+4,Bertolli Tomato Sauce,28.587
+5,Caprisun Juice Box,4.4128
+6,Cascade Dishwasher Detergent Box,7.077
+7,Cheer Laundry Detergent Bottle,23.4688
+8,Cheerios Cereal,9.9714
+9,Cheez It,3.1064
+10,Chips Ahoy Cookies,21.0956
+11,Classico Tomato Sauce,22.161
+12,Coca Cola Soda Bottle,20.1248
+13,Coca Cola Soda Can,33.3253
+14,Coca Cola Soda Pack,3.3418
+15,Colgate Toothpaste Box,19.9555
+16,Crest Toothpaste Box,18.6447
+17,Crush Soda Pack,9.7027
+18,De Cecco Pasta,16.8862
+19,Diet Pepsi Soda Bottle,16.1428
+20,Dr Pepper Soda Can,9.4334
+21,Dr Pepper Soda Pack,10.5017
+22,Fig Newtons,6.4219
+23,Folgers Coffee Can,17.8101
+24,French's Mustard,64.236
+25,Fresca Soda Bottle,8.159
+26,Frosted Flakes Cereal,9.4571
+27,Gain Laundry Detergent Bottle,36.7653
+28,Goldfish Crackers,7.7142
+29,Hefty Storage Bags,12.0322
+30,Heinz Tomato Ketchup,35.1317
+31,Hidden Valley Ranch Dressing,57.6472
+32,Hunt's Diced Tomatoes,20.5741
+33,Juicy Juice Juice Box,7.0757
+34,Keebler Cookies,24.1195
+35,Kens Dressing,61.7428
+36,Kix Cereal,10.7472
+37,Listerine Mouthwash,72.2172
+38,Maxwell House Coffee Can,15.9966
+39,Mountain Dew Soda Pack,8.4308
+40,Mug Root Beer Soda Bottle,5.1544
+41,Ocean Spray Juice Bottle,13.3625
+42,Oreo Cookies,17.2146
+43,Oreo Minis,9.1957
+44,Palmolive Dish Soap,55.7647
+45,Peet's Coffee Bag,16.6018
+46,Pepperidge Farm Cookies,37.862
+47,Pepsi Soda Bottle,32.0249
+48,Pepsi Soda Can,22.2588
+49,Prego Tomato Sauce,40.5608
+50,Purex Laundry Detergent Bottle,20.2539
+51,Ragu Tomato Sauce,85.8201
+52,Rao's Tomato Sauce,22.4741
+53,Reynolds Wrap Aluminum Foil,6.476
+54,Rinaldi Tomato Sauce,18.7361
+55,Sierra Mist Soda Pack,6.1414
+56,Special K Cereal,30.255
+57,Sprite Soda Bottle,9.7575
+58,Starbucks Coffee Bag,8.6518
+59,Tide Laundry Detergent Bottle,73.5084
+60,Wisk Laundry Detergent Bottle,11.5864
+61,Ziploc Storage Bags,13.9577
