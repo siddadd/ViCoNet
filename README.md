@@ -34,3 +34,10 @@ Getting Started
 
 Open MATLAB (tested of R2014a in Windows) and run main.m
 
+----------------
+History
+----------------
+
+
+Version 1.0 (06/18/2015)
+ - initial version corresponding to ESTIMedia 2015 paper
