@@ -12,7 +12,7 @@ booktitle={Embedded Systems for Real-time Media (ESTIMedia), 2015 IEEE Symposium
 title={Visual Co-occurrence Network: Using Context for Large-Scale Object Recognition in Retail},
 year={2015},
 month={Oct},
-pages={},
+pages={1-10},
 }
 
 @INPROCEEDINGS{iccad2014,
