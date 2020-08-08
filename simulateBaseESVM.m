@@ -51,7 +51,7 @@ class_ids = classMappings{1};
 class_names = classMappings{2};
 max_esvm_scores = classMappings{3};
 
-fid_aisle = fopen(params.AISLE_ID_MAPPING', 'r');
+fid_aisle = fopen(params.AISLE_ID_MAPPING, 'r');
 if fid_aisle == -1, error('Cannot open aisle mapping file'); end
     
 aisleMappings = textscan(fid_aisle, '%s');
