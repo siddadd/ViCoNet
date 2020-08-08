@@ -29,7 +29,7 @@ fprintf('Loading default parameters ... \n')
 params.verbose     = 0            ; 
 %% Runtime Params
 params.VAlpha      = 1; % Confidence of applying ViCoNet weights on RLS weights
-params.ViCoNetMODE  = 'weight';
+params.ViCoNetMODE  = 'baseline';
 params.K            = 20; %7; %10; %20;
 params.BUILD_CONTEXT_TIME = 8;
 params.ESVM_CONFIDENCE_THRESH = 0.075;
